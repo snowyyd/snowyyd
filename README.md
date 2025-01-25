@@ -1,6 +1,9 @@
 <!-- Header -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />${\color{#51a2da}Hello \space there}$!
 
+My name is Agustín, I'm from Argentina. I started learning cybersecurity when I was 10 years old. Now I'm a pentester and developer!  
+<sub>(Psst! TypeScript is my favorite lang 😄)</sub>
+
 ### 👇 Get in touch!
 - 🐧 Fedora Account: https://accounts.fedoraproject.org/user/snowyyd/
 
@@ -21,6 +24,9 @@
 
 #### 🛢️ Databases
 ![](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis&theme=dark&perline=15)
+
+#### 🔜 What's next?
+I'm currently learning [Rust](https://rust-lang.org/), that's an amazing lang!
 
 ### 🔎 About my profile
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
