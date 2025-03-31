@@ -6,6 +6,8 @@ My name is Agustín, I'm from Argentina. I started learning cybersecurity when I
 
 ### 👇 Get in touch!
 - 🐧 Fedora Account: https://accounts.fedoraproject.org/user/snowyyd/
+- 🧑🏻‍💻 Main GitHub Account: https://github.com/n0bodysec
+- 📧 E-mail: `<my username> (at) proton.me`
 
 <!-- Skills -->
 ### 🎓 My Skills
