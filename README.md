@@ -1,7 +1,13 @@
 <!-- Header -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />${\color{#AC3097}Hello \space there}$!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />${\color{#51a2da}Hello \space there}$!
 
-My name is Agustín, welcome to my profile!
+My name is Agustín, I'm from Argentina. I started learning cybersecurity when I was 10 years old. Now I'm a pentester and developer!  
+<sub>(Psst! TypeScript is my favorite lang 😄)</sub>
+
+### 👇 Get in touch!
+- 🐧 Fedora Account: https://accounts.fedoraproject.org/user/snowyyd/
+- 📧 E-mail: `<my username> (at) proton.me`
+- Also `@n0bodysec` at several other places
 
 <!-- Skills -->
 ### 🎓 My Skills
@@ -21,11 +27,14 @@ My name is Agustín, welcome to my profile!
 #### 🛢️ Databases
 ![](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis&theme=dark&perline=15)
 
+#### 🔜 What's next?
+I'm currently learning [Rust](https://rust-lang.org/), that's an amazing lang!
+
 ### 🔎 About my profile
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
 <div>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n0bodysec&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0bodysec&layout=compact&theme=github_dark&card_width=445)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowyyd&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowyyd&layout=compact&theme=github_dark&card_width=445)
 
 </div>
