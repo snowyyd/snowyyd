@@ -30,11 +30,4 @@ My name is Agustín, I'm from Argentina. I started learning cybersecurity when I
 #### 🔜 What's next?
 I'm currently learning [Rust](https://rust-lang.org/), that's an amazing lang!
 
-### 🔎 About my profile
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
-<div>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowyyd&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowyyd&layout=compact&theme=github_dark&card_width=445)
-
 </div>
