@@ -25,6 +25,7 @@ My name is Agustín, I'm from Argentina. I started learning cybersecurity when I
 | 🎉 ORMs       | TypeORM · Prisma · Sequelize                                                  |
 | 🐧 Distros    | Fedora · RHEL · Arch · Mint                                                   |
 | 🎮 Game Dev   | Unreal Engine                                                                 |
+| 🔴 Pokemon    | Pikachu · Charmander · Squirtle · Psyduck · Bulbasaur · Snorlax               |
 
 #### 🔜 What's next?
 I'm currently learning [Rust](https://rust-lang.org/), that's an amazing lang!
