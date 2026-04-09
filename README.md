@@ -22,7 +22,7 @@ My name is Agustín, I'm from Argentina. I started learning cybersecurity when I
 | 🗄️ Databases  | PostgreSQL · MariaDB · SQLite · MongoDB · Redis                               |
 | ☁️ Cloud      | Cloudflare · AWS · Vercel · Netlify · Supabase                                |
 | 🐳 DevOps     | Docker · Podman · Kubernetes · Nginx · Caddy · Git · GitHub Actions · Ansible |
-| 🎉 ORMs       | TypeORM · Prisma · Sequelize                                                  |
+| 🎉 ORMs       | TypeORM · Prisma · Sequelize · EF Core                                        |
 | 🐧 Distros    | Fedora · RHEL · Arch · Mint                                                   |
 | 🎮 Game Dev   | Unreal Engine                                                                 |
 | 🔴 Pokemon    | Pikachu · Charmander · Squirtle · Psyduck · Bulbasaur · Snorlax               |
